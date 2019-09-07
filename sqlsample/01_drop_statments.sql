@@ -1,0 +1,15 @@
+
+DROP TABLE IF EXISTS message;
+DROP TABLE IF EXISTS events;
+DROP TABLE IF EXISTS users_join_groups;
+DROP TABLE IF EXISTS groups_gender;
+DROP TABLE IF EXISTS groups_skill_level;
+DROP TABLE IF EXISTS groups_degree_level;
+DROP TABLE IF EXISTS gender;
+DROP TABLE IF EXISTS skill_level;
+DROP TABLE IF EXISTS degree_level;
+DROP TABLE IF EXISTS groups;
+DROP TABLE IF EXISTS location;
+DROP TABLE IF EXISTS sport;
+DROP TABLE IF EXISTS users;
+DROP TABLE IF EXISTS university;
