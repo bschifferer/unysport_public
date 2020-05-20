@@ -13,7 +13,7 @@ google-auth==1.6.3
 google-auth-httplib2==0.0.3
 graphviz==0.9
 grpcio==1.14.1
-httplib2==0.12.1
+httplib2==0.18.0
 idna==2.7
 isort==4.3.4
 itsdangerous==1.1.0
