@@ -24,7 +24,7 @@ MarkupSafe==1.1.1
 mccabe==0.6.1
 mock==2.0.0
 more-itertools==4.3.0
-numpy==1.14.5
+numpy==1.22.0
 pbr==5.1.1
 pluggy==0.8.0
 protobuf==3.6.1
