@@ -9,7 +9,7 @@
     "eject": "expo eject"
   },
   "dependencies": {
-    "expo": "^30.0.2",
+    "expo": "^46.0.14",
     "mongodb-stitch-browser-sdk": "^4.0.15-beta-1.0",
     "mongodb-stitch-react-native-sdk": "^4.0.15-beta-1.0",
     "native-base": "^2.8.1",
